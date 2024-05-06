@@ -1,0 +1,19 @@
+
+.py-5.text-center.container{
+    background-image: url(https://source.unsplash.com/1280x720/?building);
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    text-align: center;
+    padding: 0 20px;
+    color: #fff;
+}
+
+
+img{
+    width: 100%;
+}
